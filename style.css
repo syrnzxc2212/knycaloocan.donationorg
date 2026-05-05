@@ -297,6 +297,10 @@ h1, h2, h3, p {
 .fade-in-bottom-normal {
   opacity: 0;
   animation: fade-in-bottom-normal 1s ease-out 1.2s forwards;
+} 
+
+.delay {
+  animation-delay: 1.2s;
 }
 
 /*___________ABOUT US BELOW_______________*/
